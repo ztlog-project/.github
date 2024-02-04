@@ -24,6 +24,3 @@
 - (DB) MySQL
 
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ztlog-project&repo=ztlog-server-release)](https://github.com/ztlog-project/ztlog-server-release)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ztlog-project&repo=ztlog-front)](https://github.com/ztlog-project/ztlog-front)
